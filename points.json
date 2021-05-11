@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0001",
+                "name": "北航",
+                "phone": "(03)8889408",
+                "address": "北京航空航天大学",
+                "mask_adult": 720,
+                "mask_child": 700,
+                "updated": "2021\/05\/11 15:11:25",
+                "available": "学生，老师bulabula",
+                "note": "无",
+                "custom_note": "",
+                "website": "",
+                "county": "北京市",
+                "town": "海淀区",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.3407,
+                    39.9811
+                ]
+            }
+        }
+    ]
+
+}
